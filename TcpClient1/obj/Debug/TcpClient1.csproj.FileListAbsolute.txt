@@ -4,3 +4,9 @@ c:\users\arash\documents\visual studio 2017\Projects\TcpClient1\TcpClient1\bin\D
 c:\users\arash\documents\visual studio 2017\Projects\TcpClient1\TcpClient1\obj\Debug\TcpClient1.csprojResolveAssemblyReference.cache
 c:\users\arash\documents\visual studio 2017\Projects\TcpClient1\TcpClient1\obj\Debug\TcpClient1.exe
 c:\users\arash\documents\visual studio 2017\Projects\TcpClient1\TcpClient1\obj\Debug\TcpClient1.pdb
+E:\dotnetCore\socket\TcpClient1\TcpClient1\bin\Debug\TcpClient1.exe.config
+E:\dotnetCore\socket\TcpClient1\TcpClient1\bin\Debug\TcpClient1.exe
+E:\dotnetCore\socket\TcpClient1\TcpClient1\bin\Debug\TcpClient1.pdb
+E:\dotnetCore\socket\TcpClient1\TcpClient1\obj\Debug\TcpClient1.csprojResolveAssemblyReference.cache
+E:\dotnetCore\socket\TcpClient1\TcpClient1\obj\Debug\TcpClient1.exe
+E:\dotnetCore\socket\TcpClient1\TcpClient1\obj\Debug\TcpClient1.pdb
